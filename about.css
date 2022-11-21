@@ -1,0 +1,26 @@
+body {
+    background-image: url('flight2.webp');
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    background-attachment: fixed;  
+    background-size: cover;
+  }
+  .div1{
+      font-size: 25px;
+      
+  }
+  .div2{
+      font-style: italic;
+      font-size: 18px;
+      text-align: left;
+      width: 50%;
+      
+  }
+  .div3{
+    
+    background-color: darkslategrey;
+    
+    font-size: 24px;
+    height:40%;
+    width:100;
+  }
